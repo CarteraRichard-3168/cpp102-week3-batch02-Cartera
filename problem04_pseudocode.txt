@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 START
 INPUT score1
 INPUT score2
 INPUT score3
 PROCESS average = (score1 + score2 + score3) / 3
 DISPLAY average
-=======
-START
-INPUT score1
-INPUT score2
-INPUT score3
-PROCESS average = (score1 + score2 + score3) / 3
-DISPLAY average
->>>>>>> 7f439a75e13db198bb21f82eafdb2f67eed00922
 END

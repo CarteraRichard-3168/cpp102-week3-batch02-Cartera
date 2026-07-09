@@ -1,0 +1,10 @@
+START
+INPUT item1
+INPUT QT1
+INPUT item2
+INPUT QT2
+INPUT item3
+INPUT QT3
+PROCESS total = (item1 * QT1) + (item2 * QT2) + (item3 * QT3)
+DISPLAY total
+END
