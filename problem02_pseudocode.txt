@@ -1,0 +1,6 @@
+START
+INPUT Val1
+INPUT Val2
+PROCESS area = Val1 * Val2 / 2
+DISPLAY area
+END
