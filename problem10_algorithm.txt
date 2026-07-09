@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to enter their raffle number. Store it as raf1.
+Step 3: Check if number MOD 2 equals 0.
+Step 4: If yes, display "Even".
+Step 5: If no, display "Odd".
+Step 6: End.
