@@ -1,0 +1,6 @@
+Step 1 : Start.
+Step 2 : Ask the user to enter the notebook price. Store it as Var1.
+Step 3 : Ask the user to enter the quantity of notebooks. Store it as Var2.
+Step 4 : Compute the product = Var1 * Var2.
+Step 5 : Display product
+Step 6 : End.

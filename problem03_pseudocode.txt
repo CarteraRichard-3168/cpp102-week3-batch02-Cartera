@@ -1,0 +1,6 @@
+START
+INPUT Var1
+INPUT Var2
+PROCESS product = Var1 * Var2
+DISPLAY product
+END
